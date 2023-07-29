@@ -7,7 +7,7 @@ export default function Header() {
       document.querySelector(".header .kl").classList.toggle('active')
    }
    return (
-      <div className="header py-3 shadow trans">
+      <div className="header py-3 i-wrapper lg-shadow trans">
          <FloatBtn />
          <div className="container">
             <div className="row align-items-center">

@@ -332,8 +332,8 @@ body {
       display: block;
    }
    .header .logo-con .shadow {
-      font-size: 10px;
-      display: block;
+      font-size: 20px;
+      /* display: block; */
    }
    .bb {
       display: none;
@@ -347,7 +347,7 @@ body {
       background: url("/public/dtgIntro.png") no-repeat;
       background-position: center center;
    }
-   .intro .i-wrapper {
+    .i-wrapper {
       background: #0000007d;
    }
    .htb img:first-child {
