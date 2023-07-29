@@ -9,7 +9,7 @@ export default function About() {
                   About <span className="dtg-pri-dark">DEFI TIGER</span>
                </h1>
             </div>
-            <div className="abt-text col-lg-8 mx-auto text-center fs-4">
+            <div className="abt-text col-lg-8 mx-auto text-center fs-6">
                <span>
                   DTG is a Decentralized Meme Asset Driven By A Community Of
                   Defi Enthusiasts With A Unique Love For Felines. <br />
