@@ -78,7 +78,7 @@ export default function Htb() {
                            {" "}
                            Pancakeswap
                         </a>
-                        <a className="btn btn-lg dtg-bg-pri-light w-lg-25 w-100 rounded-pill fw-bold text-black">
+                        <a className="btn btn-lg dtg-bg-pri-light w-lg-25 w-100 rounded-pill fw-bold ">
                            {" "}
                            Poocoin
                         </a>

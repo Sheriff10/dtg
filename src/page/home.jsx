@@ -6,6 +6,7 @@ import Htb from "../components/htb";
 import Intro from "../components/intro";
 import Roadmap from "../components/roadmap";
 import Socials from "../components/socials";
+import Team from "../components/team";
 import Tokenomics from "../components/tokenomics";
 
 export default function Home() {
@@ -19,6 +20,7 @@ export default function Home() {
          <Htb />
          <Tokenomics />
          <Roadmap />
+         <Team />
          <Faqs />
          <Socials />
       </div>

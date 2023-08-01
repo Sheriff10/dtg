@@ -41,16 +41,18 @@ export default function Header() {
                      <li>
                         <a href="#about">About</a>
                      </li>
+                     
+                     <li><a href="#team">Team</a></li>
                      <li>
                         {/* dropdown */}
                         <div class="dropdown trans">
-                           <a class="dropbtn trans">
+                           <a href="https://drive.google.com/file/d/1MFGA3QtdfdjPNEbNafBWp2J0knjcTksz/view?usp=sharing" class="dropbtn trans">
                               CLAW PAPER V1 <FaCaretDown />
                            </a>
                            <div class="dropdown-content">
-                              <a href="#">Audit</a>
-                              <a href="#">Chart</a>
-                              <a href="#">Liquidty</a>
+                              <a href="https://solidity.finance/audits/DefiTiger/">Audit</a>
+                              <a href="https://dexscreener.com/bsc/0xd2e4a524d1a932adbc70fb41f2bec05884d5f6c2">Chart</a>
+                              <a href="https://app.unicrypt.network/amm/pancake-v2/pair/0xD2e4a524d1a932adbC70fb41F2bEC05884d5f6C2">Liquidty</a>
                            </div>
                         </div>
                      </li>
@@ -73,10 +75,10 @@ export default function Header() {
                </div>
                <div className="col-lg-3 bb">
                   <div className="btn-con d-flex justify-content-end">
-                     <button className="btn dtg-bg-pri-light text-light px-5 py-3 rounded-pill">
+                     <a href="https://pancakeswap.finance/swap?outputCurrency=0xb1957BDbA889686EbdE631DF970ecE6A7571A1B6" className="btn dtg-bg-pri-light text-light px-5 py-3 rounded-pill">
                         {" "}
                         Buy Now
-                     </button>
+                     </a>
                   </div>
                </div>
             </div>

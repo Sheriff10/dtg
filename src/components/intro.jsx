@@ -23,11 +23,11 @@ export default function Intro() {
                               Within!
                            </span>
                            <div className="intro-btn d-flex gap-3 my-4">
-                              <a className="btn btn-lg bg-light  rounded-pill fw-bold">
+                              <a href="https://dexscreener.com/bsc/0xd2e4a524d1a932adbc70fb41f2bec05884d5f6c2" className="btn btn-lg bg-light  rounded-pill fw-bold">
                                  {" "}
                                  CHART
                               </a>
-                              <a className="btn btn-lg dtg-bg-sec  rounded-pill fw-bold text-light">
+                              <a href="https://pancakeswap.finance/swap?outputCurrency=0xb1957BDbA889686EbdE631DF970ecE6A7571A1B6" className="btn btn-lg dtg-bg-sec  rounded-pill fw-bold text-light">
                                  {" "}
                                  BUY
                               </a>

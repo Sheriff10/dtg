@@ -382,3 +382,49 @@ body {
 .fl-btn img {
    width: 25px;
 }
+
+.team {
+   background: #0f0e0e;
+}
+.team-con {
+   border-top: 3px solid #be4412;
+   border-bottom: 3px solid #be4412;
+   border-radius: 10px;
+}
+.team-con:hover {
+   background: #be4412;
+   border-top: 3px solid #fff;
+   border-bottom: 3px solid #fff;
+}
+.team-con:hover span{
+   color: #000;
+}
+.team img {
+   width: 100px;
+}
+.team .head{
+   
+}
+.team i {
+   background: rgb(27, 10, 16);
+   background: linear-gradient(-35deg, rgba(27, 10, 16, 1) 0%, #be4412 100%);
+   padding: 7px 10px;
+   border-radius: 50%;
+}
+
+
+@media (max-width: 600px) {
+   .team-con .t-text {
+      display: none;
+   }
+   .team-con span{
+      font-size: 10px;
+   }
+}
+.btn:hover{
+   border: 1px solid #ff952b;
+   color: #fff;
+}
+.btn.bg-light:hover{
+   color: #000;
+}
