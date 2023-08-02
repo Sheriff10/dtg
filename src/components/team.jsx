@@ -7,7 +7,7 @@ export default function Team() {
    };
    const teamArr = [
       teamFunc(
-         "",
+         "/t3.jpeg",
          "Founder DefiTigerToken",
          "Crypto Wealth Embassy",
          "Crypto Wealth Embassy is the Founder of DefiTigertoken, one of Africa meme token with a strong community backing. He is a Solidity Developer and the Head Of Tutorials of SMC Dao, a community of Believers which is focused on teaching people about the Digital Economy. ",
@@ -16,7 +16,7 @@ export default function Team() {
          ]
       ),
       teamFunc(
-         "",
+         "/t1.jpeg",
          "Operations Manager at DefiTiger Token ",
          "Lone Wolf ",
          "As the Operations Manager, Lone Wolf brings a wealth of expertise and a strategic mindset to our organization. With their exceptional leadership skills and a knack for optimizing processes, Lone Wolf ensures smooth and efficient operations across all departments.",
@@ -25,7 +25,7 @@ export default function Team() {
          ]
       ),
       teamFunc(
-        "",
+        "/t.png",
         "Head Moderator ",
         "Phoenix",
         "As the Head of Moderators, Phoenix plays a crucial role in ensuring the safety and harmony of our online communities. With a keen sense of responsibility and a passion for maintaining a positive environment, Phoenix leads our team of moderators with unwavering dedication.",
@@ -35,7 +35,7 @@ export default function Team() {
         ]
      ),
      teamFunc(
-        "",
+        "/t2.jpg",
         "Head Of Graphics",
         "Ayo Timi",
         "With an eye for captivating visuals and a passion for artistic expression, Ayo Timi is the mastermind behind our extraordinary graphics. As the Head of Graphics, 	Ayo Timi brings unparalleled creativity, skill, and expertise to our team.",
@@ -44,7 +44,7 @@ export default function Team() {
         ]
      ),
      teamFunc(
-        "",
+        "/t4.jpeg",
         "Web Developer",
         "Sheezey",
         "Experienced Fullstack Web Developer and Software Engineer with 4 years' expertise. Proficient in diverse technologies and dedicated to delivering robust web solutions. Updated with latest trends and passionate about problem-solving. Ready to contribute effectively to any project.",
@@ -67,7 +67,7 @@ export default function Team() {
                   <div className="col-lg-3 text-light col-6 my-3" key={index}>
                      <div className="team-con trans py-2 shadow">
                         <div className="head text-center py-3">
-                           <img src="t.png" alt="Team" /> <br />
+                           <img src={i.img} alt="Team" /> <br />
                            <small>{i.name} </small> <br />
                            <span className="fw-bold fs-5 dtg-pri-dark">
                               {i.role}
