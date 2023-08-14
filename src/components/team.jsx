@@ -16,8 +16,8 @@ export default function Team() {
          ]
       ),
       teamFunc(
-         "/t1.jpeg",
-         "Operations Manager at DefiTiger Token ",
+         "/lf.jpg",
+         "Operations Manager ",
          "Lone Wolf ",
          "As the Operations Manager, Lone Wolf brings a wealth of expertise and a strategic mindset to our organization. With their exceptional leadership skills and a knack for optimizing processes, Lone Wolf ensures smooth and efficient operations across all departments.",
          [
