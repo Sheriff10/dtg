@@ -12,7 +12,9 @@ export default function Team() {
          "Crypto Wealth Embassy",
          "Crypto Wealth Embassy is the Founder of DefiTigertoken, one of Africa meme token with a strong community backing. He is a Solidity Developer and the Head Of Tutorials of SMC Dao, a community of Believers which is focused on teaching people about the Digital Economy. ",
          [
+
             {link: "https://twitter.com/CWEmbassy", icon: <FaTwitter />},
+            {link: "https://t.me/CWEmbassy_DTG", icon: <FaTelegram />},
          ]
       ),
       teamFunc(
@@ -22,6 +24,8 @@ export default function Team() {
          "As the Operations Manager, Lone Wolf brings a wealth of expertise and a strategic mindset to our organization. With their exceptional leadership skills and a knack for optimizing processes, Lone Wolf ensures smooth and efficient operations across all departments.",
          [
             {link: "https://twitter.com/LoneWolf_xyz", icon: <FaTwitter />},
+            {link: "https://t.me/Collins_happy", icon: <FaTelegram />},
+            {link: "https://www.linkedin.com/in/collinsromanus", icon: <FaLinkedin />},
          ]
       ),
       teamFunc(
@@ -30,7 +34,9 @@ export default function Team() {
         "Phoenix",
         "As the Head of Moderators, Phoenix plays a crucial role in ensuring the safety and harmony of our online communities. With a keen sense of responsibility and a passion for maintaining a positive environment, Phoenix leads our team of moderators with unwavering dedication.",
         [
+
             {link: "https://twitter.com/LoneWolf_xyz", icon: <FaTwitter />},
+            {link: "https://t.me/FELINE_DTG", icon: <FaTelegram/>},
 
         ]
      ),
@@ -41,6 +47,7 @@ export default function Team() {
         "With an eye for captivating visuals and a passion for artistic expression, Ayo Timi is the mastermind behind our extraordinary graphics. As the Head of Graphics, 	Ayo Timi brings unparalleled creativity, skill, and expertise to our team.",
         [
             {link: "https://twitter.com/LoneWolf_xyz", icon: <FaTwitter />},
+            {link: "https://t.me/Timayo222", icon: <FaTelegram />},
         ]
      ),
      teamFunc(
