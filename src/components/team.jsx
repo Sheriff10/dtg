@@ -21,7 +21,7 @@ export default function Team() {
          "/lf.jpg",
          "Operations Manager ",
          "Lone Wolf ",
-         "As the Operations Manager, Lone Wolf brings a wealth of expertise and a strategic mindset to our organization. With their exceptional leadership skills and a knack for optimizing processes, Lone Wolf ensures smooth and efficient operations across all departments.",
+         "As the Operations Manager, Lone Wolf brings a wealth of expertise and a strategic mindset to our organization. With a exceptional leadership skills and a knack for optimizing processes, Lone Wolf ensures smooth and efficient operations across all departments.",
          [
             {link: "https://twitter.com/LoneWolf_xyz", icon: <FaTwitter />},
             {link: "https://t.me/Collins_happy", icon: <FaTelegram />},
@@ -29,7 +29,7 @@ export default function Team() {
          ]
       ),
       teamFunc(
-        "/t.png",
+        "/phonix.jpeg",
         "Head Moderator ",
         "Phoenix",
         "As the Head of Moderators, Phoenix plays a crucial role in ensuring the safety and harmony of our online communities. With a keen sense of responsibility and a passion for maintaining a positive environment, Phoenix leads our team of moderators with unwavering dedication.",
@@ -41,7 +41,7 @@ export default function Team() {
         ]
      ),
      teamFunc(
-        "/t2.jpg",
+        "/ayo.jpeg",
         "Head Of Graphics",
         "Ayo Timi",
         "With an eye for captivating visuals and a passion for artistic expression, Ayo Timi is the mastermind behind our extraordinary graphics. As the Head of Graphics, 	Ayo Timi brings unparalleled creativity, skill, and expertise to our team.",
